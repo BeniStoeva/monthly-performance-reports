@@ -1,14 +1,22 @@
-[
-  {
-    "name":"John Smith",
-    "totalSales":250,
-    "salesPeriod":10,
-    "experienceMultiplier":0.5
-  },
-  {
-    "name":"David Prowless",
-    "totalSales":250,
-    "salesPeriod":10,
-    "experienceMultiplier":0.5
-  }
-]
+{
+  "data": [
+    {
+      "name": "John Smith",
+      "totalSales": 250,
+      "salesPeriod": 10,
+      "experienceMultiplier": 0.5
+    },
+    {
+      "name": "David Prowless",
+      "totalSales": 250,
+      "salesPeriod": 10,
+      "experienceMultiplier": 0.5
+    },
+    {
+      "name": "Ben Williams",
+      "totalSales": 250,
+      "salesPeriod": 1,
+      "experienceMultiplier": 0.5
+    }
+  ]
+}
